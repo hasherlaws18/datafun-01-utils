@@ -1,5 +1,5 @@
 """
-File: utils_case.py
+File: utils_houston.py
 
 Purpose: Reusable Module for My Analytics Projects
 
@@ -7,7 +7,7 @@ Description: This module provides a byline for my analytics projects.
 When we work hard to write useful code, we want it to be reusable.
 A good byline could be used in every Python analytics project we do.
 
-Author: Denise Case
+Author: Houston Asher-Laws
 
 TODO: Change the module name in this opening docstring to use your name instead of case. 
 TODO: Change the author in this opening docstring to your name or alias. 
